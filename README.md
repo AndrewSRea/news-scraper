@@ -1,7 +1,5 @@
 # NPR Headlines Scraper
 
-https://peaceful-thicket-65944.herokuapp.com
-
 This is a web app which allows users view and leave comments on the latest NPR news headlines. 
 Whenever a user visits this site, the app will allow the user to scrape headlines from NPR.org and display them for the 
 user. Each scraped article will be saved to this application's database. This app will scrape and display the following 
